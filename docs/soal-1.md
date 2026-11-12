@@ -1,6 +1,6 @@
 # Soal 1 — Struktur proyek dan Git (15%)
 
-Acuan soal: baris 59–94 dan 132–152 pada modul.
+Acuan soal: baris 59–94 dan 132–152 pada modul. Branch ini jadi checkpoint struktur awal; penyempurnaan dokumentasi muncul pada branch berikutnya.
 
 ## Langkah saat responsi
 
